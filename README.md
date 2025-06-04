@@ -1,30 +1,15 @@
-![image](https://github.com/user-attachments/assets/c35c06e2-f377-476b-900d-545312048fa1)![image](https://github.com/user-attachments/assets/6290cda6-d8b6-4023-ad77-dbc854ce65c9)Grapevine Leaf Disease Classification using Deep Learning
-DataSets:
-Number of Classes: 4
-Class Labels:
-Black Rot 
-ESCA 
-Healthy 
-Leaf Blight
-![image](https://github.com/user-attachments/assets/dc09b1ec-289b-4e97-8cfb-95eaa2e419c1)
-
-Structure:
-train/ → Training data (7222 images)
-test/ → Testing data (1805 images)
-![image](https://github.com/user-attachments/assets/3c2f9f89-7571-401a-b127-ae43b00ff5b0)
-
-
-![image](https://github.com/user-attachments/assets/914ce128-1e64-4263-a4d0-c0516682bb49)
-
-![image](https://github.com/user-attachments/assets/08bc4ad2-8f2b-4e0b-869a-089814bade02)
-![image](https://github.com/user-attachments/assets/a947cb91-e414-4017-926b-a190c9ee827e)
-![image](https://github.com/user-attachments/assets/8e4247da-8dde-4d4e-8369-655c6ada12dc)
-![image](https://github.com/user-attachments/assets/7c8711ba-39e8-40cb-9b34-bb13c37a5550)
-![image](https://github.com/user-attachments/assets/79a0c491-ba14-45ba-8637-332f28944d35)
-![image](https://github.com/user-attachments/assets/294b5b6c-0c33-4b46-b099-767178611982)
-![image](https://github.com/user-attachments/assets/22623d34-7b8e-4c0a-aa4f-d3402d24222c)
-![image](https://github.com/user-attachments/assets/8c0fc68e-1553-44c6-b1d1-73d9e12a1566)
-![image](https://github.com/user-attachments/assets/8aeba318-d815-4a07-9251-e2607f5348d7)
-WEB APPLICATION:
-![image](https://github.com/user-attachments/assets/b1d61697-13a2-4a0a-8203-8fd25bd57a55)
-
+![image](https://github.com/user-attachments/assets/1eab94ea-7613-4b12-b646-07d8f305ed46)
+![image](https://github.com/user-attachments/assets/eafbe335-8567-4601-9dee-fcd8f40769fd)
+![image](https://github.com/user-attachments/assets/400882c4-e719-43e4-8d11-84a58a2ec2af)
+![image](https://github.com/user-attachments/assets/523f3cba-3b53-4076-8af3-82f443e3f6c2)
+![image](https://github.com/user-attachments/assets/d90dbbad-4714-4432-8472-1838b127d108)
+![image](https://github.com/user-attachments/assets/9a0d0f15-9a34-4cc0-9c87-39ef47c900f6)
+![image](https://github.com/user-attachments/assets/2948c3d7-deb9-487a-a062-95619fe1573f)
+![image](https://github.com/user-attachments/assets/335ebab7-adcb-4fac-8369-92ab6f9ba350)
+![image](https://github.com/user-attachments/assets/2b53069a-be7b-4f65-b33b-e1b715777df0)
+![image](https://github.com/user-attachments/assets/d279d61f-6935-4b55-9578-74cebb8fe66d)
+![image](https://github.com/user-attachments/assets/0ee1d04a-e5c0-431a-a33b-434081671298)
+![image](https://github.com/user-attachments/assets/0a7ab243-5ce7-4feb-9507-be982a43810e)
+![image](https://github.com/user-attachments/assets/dfde39e9-1fb2-437c-aa7e-b992936c7203)
+![image](https://github.com/user-attachments/assets/994f2802-6ec5-4ed2-9ab2-1badbb4c4192)
+![image](https://github.com/user-attachments/assets/79443c2a-6323-44c6-ab56-b4c365191f1b)
