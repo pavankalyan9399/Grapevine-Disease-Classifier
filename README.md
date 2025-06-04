@@ -1,4 +1,4 @@
-⚠️ Note on Models and Datasets
+⚠️ Note on Models and Datasets:
 Please note that the trained models and datasets have been removed from this repository due to their large file sizes. GitHub does not support hosting extremely large files, and including them here would exceed the size limits.
 
 However, if you visit the sample images and directory structure, you can still understand the working and pipeline of the project. You may also retrain the models locally using the provided scripts and your own datasets if needed.
